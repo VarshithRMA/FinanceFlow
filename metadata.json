@@ -1,0 +1,6 @@
+{
+  "name": "LedgerPulse - Personal Finance & Budget",
+  "description": "Personal finance manager featuring automated expense tracking, smart categorization rules, recurring bill forecasts, and comprehensive monthly budget summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
